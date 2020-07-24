@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "project-1": {
+     "gid": "111111111111111",
+      "horizon": "2020-04-01T00:00:00+0800",
+      "cfd_states": [
+        "Inbox", "Prioritized", "Doing", "Delegated", "Done"
+      ],
+      "done_states": ["Done", "Delegated"]
+    },
+    "project-2": {
+     "gid": "222222222222222",
+      "horizon": "2020-04-01T00:00:00+0800",
+      "cfd_states": [
+        "Todo", "Doing", "Done"
+      ],
+      "done_states": ["Done"]
+    }
+  }
+}
